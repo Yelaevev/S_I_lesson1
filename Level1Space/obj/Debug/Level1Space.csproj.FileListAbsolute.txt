@@ -1,0 +1,6 @@
+c:\users\speedfire\Level1Space\Level1Space\bin\Debug\Level1Space.exe.config
+c:\users\speedfire\Level1Space\Level1Space\bin\Debug\Level1Space.exe
+c:\users\speedfire\Level1Space\Level1Space\bin\Debug\Level1Space.pdb
+c:\users\speedfire\Level1Space\Level1Space\obj\Debug\Level1Space.csprojResolveAssemblyReference.cache
+c:\users\speedfire\Level1Space\Level1Space\obj\Debug\Level1Space.exe
+c:\users\speedfire\Level1Space\Level1Space\obj\Debug\Level1Space.pdb
